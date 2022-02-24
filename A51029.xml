@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Sadler, sadled in the vindication of Mr. R. Cranmer of London merchant: and confutation, of the abominable untruths, and falshoods of Anthony Sadler of Mitcham, Clark; contained in a letter and petition directed to the Right Reverend Father in God George, Lord Bishop of Winchester; and afterwards published to the world in print. By a true lover of truth and justice.</title>
+            <author>True Lover of Truth and Justice.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51029</idno>
+            <idno type="STC">Wing M2274BA</idno>
+            <idno type="STC">ESTC R217849</idno>
+            <idno type="EEBO-CITATION">99829492</idno>
+            <idno type="PROQUEST">99829492</idno>
+            <idno type="VID">33932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Sadler, sadled in the vindication of Mr. R. Cranmer of London merchant: and confutation, of the abominable untruths, and falshoods of Anthony Sadler of Mitcham, Clark; contained in a letter and petition directed to the Right Reverend Father in God George, Lord Bishop of Winchester; and afterwards published to the world in print. By a true lover of truth and justice.</title>
+                  <author>True Lover of Truth and Justice.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[by Thomas Mabb],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Colophon reads: London, printed by Thomas Mabb at Pauls Wharff, 1664.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sadler, Anthony, b. 1610.</term>
+               <term>Cranmer, Robert.</term>
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Benefices, Ecclesiastical --  England --  Early works to 1800.</term>
+               <term>Mitcham (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33932:1"/>
+            <p>Mr. Sadler, SADLED, IN The Vindication of M<hi rend="sup">r.</hi> R. Cranmer Of <hi>London</hi> Merchant: AND CONFUTATION, Of the Abominable Vntruths, and Falſhoods, of ANTHONY SADLER of <hi>Mitcham,</hi> Clark; Contained in a Letter and Petition Directed to the Right Re<g ref="char:EOLhyphen"/>verend Father in God <hi>George,</hi> Lord Biſhop of <hi>Wincheſter;</hi> and after<g ref="char:EOLhyphen"/>wards Publſhed to the world in Print.</p>
+            <p>By a True Lover of Truth and Juſtice.</p>
+            <q xml:lang="lat">Quos vult perdere Jupiter prius dementat.</q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1665.</p>
+            <pb facs="tcp:33932:2"/>
+            <pb facs="tcp:33932:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33932:3"/>
+            <pb n="3" facs="tcp:33932:3"/>
+            <head>Mr. <hi>SADLER,</hi> Sadled, In the Vindication of Mr. <hi>Robert Cranmer</hi> of <hi>London,</hi> Merch<hi rend="sup">t.</hi> 
+               <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Or our more Orderly Proceeding in this buſineſs, we will take theſe Steps.
+<list>
+                  <item>1. You ſhall know how <hi>Anthony Sad<g ref="char:EOLhyphen"/>ler,</hi> came to be Vicar of <hi>Mitcham,</hi> and when.</item>
+                  <item>2. You ſhall know Mr. <hi>Cranmers</hi> Carriage and Converſation towards him.</item>
+                  <item>3. You ſhall underſtand <hi>Anthony Sadlers</hi> Demea<g ref="char:EOLhyphen"/>nor towards Mr. <hi>Cranmer,</hi> and divers others of the beſt of his Pariſhoners.</item>
+                  <item>4. And laſtly, You ſhall underſtand the Neceſ<g ref="char:EOLhyphen"/>ſity and Juſtice of Mr. <hi>Cranmers</hi> Proceedings againſt <hi>Anthony Sadler</hi> for his removal, for the Future Set<g ref="char:EOLhyphen"/>tlement of the Peace and Quiet of that Town and Pariſh of <hi>Mitcham.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="4" facs="tcp:33932:4"/>
+            <p>For the Firſt, You muſt know, that about the Year of our Lord, 1660. This <hi>Anthony Sadler</hi> being very Poor, but well ſtockt with Wife and Chil<g ref="char:EOLhyphen"/>dren, went up and down a Birding for a Spiritual Benefice, or Living; Some that knew <hi>Anthony Sad<g ref="char:EOLhyphen"/>ler,</hi> requeſted Mr. <hi>Cranmer,</hi> the rightfull Patron of that Vicarage, to let him Preach at <hi>Mitcham,</hi> in or<g ref="char:EOLhyphen"/>der to his ſettlement in that Place in caſe his Preach<g ref="char:EOLhyphen"/>ing was approved of. <hi>Anthony Sadler</hi> did according<g ref="char:EOLhyphen"/>ly Preach there an Approbation Sermon, which well pleaſed Mr. <hi>Cranmer,</hi> and the Reſt of the Pariſh; but it being told him that it was but a ſmall ſubſiſt<g ref="char:EOLhyphen"/>ance, worth not above 40<hi rend="sup">l</hi>. <hi>per annum,</hi> the Vicarage houſe much out of Repairs, and that it had not been Inhabited by divers of his Predeceſſors before him for many years. <hi>Anthony Sadler</hi> replyed, <hi>He would willingly accept it withall Faults, and bleſſe God and his Patron for it:</hi> Whereupon the Patron Mr. <hi>Cranmer,</hi> did freely Preſent him to the then Lord Biſhop of <hi>Winton,</hi> Biſhop of the Dioceſs; And <hi>Anthony Sadler</hi> was Inſtituted and Inducted accordingly. And thus began the name and Relation between them of Patron and Vicar.</p>
+            <p n="2">2. For the Patrons carriage towards him and his after this, the Patron thought he had not done e<g ref="char:EOLhyphen"/>nough by this publick proviſion of maintenance for him, and his; but Invited him daily to his own houſe and Table, where <hi>Anthony Sadler</hi> was as it were Commoner, and had the freedome to come when
+<pb n="5" facs="tcp:33932:4"/> he pleaſed: Provided him Wood, Coale, and other neceſſaries for him at his own Charge; Sends him Cordials and other Phyſick in times of ſickneſs, Commends him, and his, to the Love and Reſpects of his Neighbours; At their weekly Neighbourly meetings; the Vicar was a conſtant invited Gueſt among them, where he had many times Meat, Drink, and Money; and as a farther Teſtimony of the Patrons and Pariſhoners care of him, they had conſulted to Rebuild the Vicarage houſe at their own coſt and charges; for that purpoſe the one ſub<g ref="char:EOLhyphen"/>ſcribes a Contribution of Bricks, another of Tim<g ref="char:EOLhyphen"/>ber, a third of Money, and were putting the ſame in Execution; but then comes next to be conſidered the ſaid <hi>Anthony Sadler,</hi> his Carriage towards the Patron, and Pariſhoners, which diverted theſe good intentions, and ſo leads you to the third Step.</p>
+            <p n="3">3. As ſoon as <hi>Anthony Sadler</hi> had heard that there was Forty Pounds, or ſome ſuch like Sum of Mo<g ref="char:EOLhyphen"/>neys ſubſcribed, towards the Repairing and Re<g ref="char:EOLhyphen"/>building of the Vicarage houſe; He goes to ſome Evil Counſel, (as <hi>Anthony Sadler</hi> himſelf hath ſince Confeſt,) who adviſe him, <hi>To furniſh his Houſe with the Money, and to Commence a Suite in the</hi> Prerogative Court <hi>againſt his Patron, Mr.</hi> Cranmer, <hi>for</hi> Dilapida<g ref="char:EOLhyphen"/>tions: This advice pleaſing his Hot and Heady Temper and Diſpoſition, he preſently puts in Exe<g ref="char:EOLhyphen"/>cution. Cites his Patron into the Court of <hi>Arches,</hi> and there Libels againſt him for <hi>Dilapidations,</hi> con<g ref="char:EOLhyphen"/>trary
+<pb n="6" facs="tcp:33932:5"/> to all preſidents of former times, that a Vicar ſhould Sue his Patron for <hi>Dilapidations,</hi> who had ſo freely preſented him to the Vicarage, and did con<g ref="char:EOLhyphen"/>fidently perſwade himſelf of Victory in this cauſe; When this was noys'd abroad, the Chief of the Pa<g ref="char:EOLhyphen"/>riſh adviſed the ſaid <hi>Anthony Sadler</hi> to deſiſt from this unjuſt Proſecution of his Patron, who had de<g ref="char:EOLhyphen"/>ſerved much better at his hands; but as a man Ob<g ref="char:EOLhyphen"/>durated and Hardned, he ſtops his ear to their Ad<g ref="char:EOLhyphen"/>vice; Breaks all Correſpondency with his Patron; Reviles him, and Vigourouſly Proſecutes his Suite in the <hi>Arches</hi> againſt him; Which the chief of the Pariſh obſerving, they e-ſtrange themſelves from the ſaid <hi>Anthony Sadler,</hi> and do adhear to Mr. <hi>Cran<g ref="char:EOLhyphen"/>mer,</hi> who by the general Voage was the Suffering Party, and had received the Wrong; <hi>Anthony Sad<g ref="char:EOLhyphen"/>ler</hi> hereupon is no more an Invited Gueſt to their Tables; And they have no more to do with him, then to hear him in the Pulpit; Where <hi>Anthony Sad<g ref="char:EOLhyphen"/>ler</hi> Acts his Part moſt Rarely, as you will perceive by the enſuing Diſcourſe; Preaching up himſelf in theſe Words, <hi>I was, and am for the Liturgie of the Church of</hi> England: <hi>You were, and are for the</hi> Cove<g ref="char:EOLhyphen"/>nant; <hi>I was, and am for the Government of the Church of</hi> England; <hi>Your were, and are for Presbytery;</hi> and ſo runs on in a very unprofitable diſcourſe, Extolling himſelf, and Reproaching his Pariſhoners. But you ſhall ſee by his Practiſe, what a Dutiful Son of the Church he is; It was obſerved by ſome Perſons who had been at <hi>Mitcham</hi> but three Sundays, that two of thoſe days, <hi>Anthony Sadler</hi> Read Prayers
+<pb n="7" facs="tcp:33932:5"/> without a Surplice, and frequently Baptizeth Chil<g ref="char:EOLhyphen"/>dren without it and Preacht in his Cloak, both fore<g ref="char:EOLhyphen"/>noon and after-noon; oftentimes neglects the Du<g ref="char:EOLhyphen"/>ty of his Place, four or five Sundays together: Some Sundays when the Bells have Aſſembled the People, his Maid is ſent to the Clark to Diſmiſs them; ei<g ref="char:EOLhyphen"/>ther becauſe it is Cold Weather, and the Vicar loves his Bed well, or elſe he is ſtragling Abroad, where he is not to be found. Upon the laſt <hi>Anni<g ref="char:EOLhyphen"/>verſary</hi> day the Thirtieth of <hi>January,</hi> Appointed by Act of Parliament for our Solemn Humiliation, for the Murther of our late KING of Bleſſed Memo<g ref="char:EOLhyphen"/>ry, there is by the Church ſet Prayers appointed for that Occaſion, yet there was neither Praying nor Preaching that day at <hi>Mitcham,</hi> by this <hi>Dutiful Son of the Church</hi> Anthony Sadler: When <hi>Anthony Sadler</hi> is in the Church, he more obſerves the Be<g ref="char:EOLhyphen"/>haviour and cariage of his Pariſhoners, then his Text, and ſquares his Matter more to his own Jan<g ref="char:EOLhyphen"/>gling humour, then to the Edification and Profit of his People. And yet they muſt come to Hear him too, elſe to the Biſhops Court he goes, Pre<g ref="char:EOLhyphen"/>ſents them, and troubles them with <hi>Citations,</hi> Witneſs Mr. <hi>Cranmer</hi> his Patron, whom he Proſe<g ref="char:EOLhyphen"/>cuted to an Excommunication for not coming to <hi>Mitcham</hi> Church, when the Gentleman is uſually at his houſe in <hi>LONDON,</hi> upon thoſe days; if a<g ref="char:EOLhyphen"/>ny chance but once to ſit with his Hatt on, though he be at that time indiſpoſed in Health, yet he ſhall taſte of the ſame ſauce, Witneſs Sr. <hi>William Green</hi> of <hi>Mitcham</hi> Baronet, who for ſuch an Offence, <hi>Anthony
+<pb n="8" facs="tcp:33932:6"/> Sadler</hi> cauſed to be cited into the Biſhops Court, by the Name and Stile of <hi>William Green</hi> Brewer of <hi>Weſt<g ref="char:EOLhyphen"/>minſter; Edward Brigſtock</hi> one of the Church-War<g ref="char:EOLhyphen"/>dens of the Pariſh of <hi>Mitcham,</hi> this <hi>Anthony Sadler</hi> Preſented, becauſe he would not Preſent what and whom he pleaſed; and cauſed the ſaid <hi>Edward Brig<g ref="char:EOLhyphen"/>ſtock</hi> to be Excommunicated thereupon; upon the Week days You ſhall finde this <hi>Anthony Sadler</hi> in the Ale-houſe Drinking, and Wantonly Diſcour<g ref="char:EOLhyphen"/>ſing of Women beyond all Bounds of Civility, or Railing againſt his Patron, or Enticing poor Peo<g ref="char:EOLhyphen"/>ple to Subſcribe their Hands, or ſet their Marks to ſome ſtuff that <hi>Anthony Sadler</hi> hath prepared and drawn up before hand againſt his Patron; or telling ſtrange ſtories of himſelf of his Sufferings, and of his Learned Works, in which Diſcourſe muſt be brought in by Head and Shoulders, the <hi>Inquiſitio Anglicana,</hi> which <hi>Anthony Sadler</hi> calls his, though many have affirmed that it was not his, but made at a Club of Divines, and that <hi>Anthony Sadler</hi> being the Boldeſt and moſt Confidenteſt of them, did firſt Adventure to Print it.</p>
+            <p>Thus you ſee how Arrogantly <hi>Anthony Sadler</hi> Imps his Wings with other Mens Feathers, and has not the Ingenuity of the Prophet to ſay, <hi>Alas it was bor<g ref="char:EOLhyphen"/>rowed;</hi> We need not mention his frequent Swearing by the Name and Attributes of God, his Drunken<g ref="char:EOLhyphen"/>neſs, and other of his Perſonal Vices, which de<g ref="char:EOLhyphen"/>clare him not to be a Moral Man; and which are at<g ref="char:EOLhyphen"/>teſted under the Hands of divers of the Inhabitants. His familiar Converſing with the Baſeſt and Mea<g ref="char:EOLhyphen"/>neſt
+<pb n="9" facs="tcp:33932:6"/> of the people; If you will view him in his Acts of Juſtice, we will cite you but one, that is, <hi>Hemings</hi> his Caſe, to whom <hi>Anthony Sadler</hi> was in<g ref="char:EOLhyphen"/>debted for a horſe, and gave the ſaid <hi>Hemings</hi> Bond for the Mony. <hi>Hemings</hi> being in much want, came to <hi>Mitcham</hi> to <hi>Anthony Sadler</hi> to deſire his Mony, <hi>Anthony Sadler</hi> denyed that he owed him any thing (though the Mony had been many years due) but ſends for a Martials Man, and in a great pretended Action Arreſts <hi>Hemings,</hi> who for want of Bayle was carried to the Marſhalſey, and there deteined for the ſpace of Eighteen Months, till the poor man was almoſt deſtroyed with Vermin; and unleſs <hi>Hemings</hi> would releaſe the Debt, <hi>Sadler</hi> would not diſcharge his pretended Action. And thus you have a taſte of <hi>Anthony Sadlers</hi> Demeanor at home and abroad, in the Pulpit and out of it, to his Patron and Pariſhio<g ref="char:EOLhyphen"/>ners, and to a Stranger: <hi>Ex Ungue Leonem.</hi>
+            </p>
+            <p>Now we are come in the Fourth and laſt place, To ſet forth Mr. <hi>Cranmers</hi> Proceedings againſt <hi>An<g ref="char:EOLhyphen"/>thony Sadler,</hi> the matter of Fact was thus:</p>
+            <p>Mr. <hi>Cranmer,</hi> Sir <hi>William Green,</hi> the Church-war<g ref="char:EOLhyphen"/>dens, and divers others of the Pariſhioners of <hi>Mitch<g ref="char:EOLhyphen"/>am,</hi> being upon the Information of <hi>Anthony Sadler,</hi> cited to appear before Sir <hi>Mundyford Bramſtone</hi> in <hi>No<g ref="char:EOLhyphen"/>vember</hi> laſt, in the Court held in St. <hi>Mary Overyers</hi> Church, they did appear accordingly. At which Court was alſo <hi>Anthony Sadler,</hi> with his Procter <hi>Richardſon,</hi> who took upon him moſt Impudently and Falſly before the Judge, to affirm that Mr. <hi>Cran<g ref="char:EOLhyphen"/>mer</hi>
+               <pb n="10" facs="tcp:33932:7"/> was an Excommunicated Perſon; which Sen<g ref="char:EOLhyphen"/>tence is of ſo high a Nature, that it Excludes a man from the benefit of Gods Ordnances, and from the benefit of the Laws of the Land, from the Burial of a Chriſtian, if he dyes without Repealing it; which did very highly provoke Mr. <hi>Cranmer,</hi> to hear ſuch a matter in the face of the Court of Juſtice, and in Gods houſe, and before his Neighbours and Coun<g ref="char:EOLhyphen"/>try-men, ſo falſly and ſcandalouſly objected againſt him. Whereupon Mr. <hi>Cranmer</hi> who had hitherto onely acted the defenſive part, upon good advice, did now become Plantiff, and entered an Action againſt this <hi>Richardſon</hi> in the Borough Court in <hi>Southwark</hi> for the Scandal, and another againſt <hi>Anthony Sadler</hi> for his unjuſt and malicious Proſecution, upon which Actions they were both Arreſted; <hi>Richardſon</hi> puts in Bayl, and ſo had his Liberty; <hi>Anthony Sadler</hi> could finde no Bayl, and ſo was kept in Cuſtody; Mr. <hi>Cranmer</hi> with Mr. <hi>Hooker</hi> the day following, went to the Priſon where <hi>Anthony Sadler</hi> was in Cuſtody, and ſends for <hi>Anthony Sadler,</hi> where after ſome chol<g ref="char:EOLhyphen"/>ler ſpent on both ſides, the Patron and the Vicar came to ſome quiet terms, and could drink to, and pledge each other; and <hi>Anthony Sadlers</hi> fury was much abaited, and began not onely to confeſs his former wrongs done to his Patron, but to have ſome kinde of ſorrow and remorſe for the ſame, and Mr. <hi>Hooker</hi> obſerving ſome eaſineſs of Temper in the Pa<g ref="char:EOLhyphen"/>tron to remit and forgive; though it is ſomwhat pre<g ref="char:EOLhyphen"/>ternatural in him to forget: thought it a fit time to ſtrike a peace betwixt them, for this purpoſe, propo<g ref="char:EOLhyphen"/>ſeth
+<pb n="11" facs="tcp:33932:7"/> 
+               <hi>Anthony Sadler</hi> his Relinquiſhing of the Vica<g ref="char:EOLhyphen"/>rage, as the means of their Reconciliation; <hi>Anthony Sadler</hi> conſented to it, and the Patron accepts it; but ſaid Mr. <hi>Sadler,</hi> Sir, <hi>I cannot do it preſently: I owe Mony and have contracted ſome debts upon me, by the long and chargable Suite I had with you in the Arches, and there<g ref="char:EOLhyphen"/>fore pray let me have the benefit of the</hi> Eaſter <hi>book before I go;</hi> Moreover (ſaid <hi>Anthony Sadler) my wife is with Childe, and I cannot with any conveniency remove my Fa<g ref="char:EOLhyphen"/>mily till ſhe be delivered, which will be about</hi> Eaſter, ſaid the Vicar; Pray ſet your day, (ſaid the Patron) when you will leave the Vicarage, &amp; give me ſecurity for your Performance, and all is ended. Said <hi>Anthony Sadler,</hi> Sir, <hi>I will give you my Bond of</hi> 500l. <hi>to leave the Vicarage of</hi> Mitcham, <hi>and the Town too, by the</hi> 10. <hi>of</hi> April <hi>next, which will be in the Year of our Lord,</hi> 1665. but ſaid Mr. <hi>Hooker,</hi> will you give a Warrant of At<g ref="char:EOLhyphen"/>torney to confeſs a Judgment upon the Bond, as of the next Term of St. <hi>Hillary.</hi> The Vicar replied, <hi>I will willingly and freely do it;</hi> upon this the Bond and Warrant of Attorney were drawn, and afterwards ſhewed to the Vicar, who in the preſence of Mr. <hi>Hooker</hi> and divers other perſons, did ſoberly and de<g ref="char:EOLhyphen"/>liberately Sign, Seal, and deliver the ſame as his ſe<g ref="char:EOLhyphen"/>veral Acts &amp; Deeds unto the Patron, and for his uſe. After this the Patron withdraws his Action againſt him and ſets him at Liberty; The Vicar very much pleaſed with this Agreement, goes the day follow<g ref="char:EOLhyphen"/>ing to his Cure, and on Munday following returns to <hi>London,</hi> brings his Preſentation with him, and in the preſence and hearing of divers perſons delivers
+<pb n="12" facs="tcp:33932:8"/> up his Preſentation to his Patron, Congratulates Mr. <hi>Hooker</hi> as the bleſſed Inſtrument of peace betwixt them, lays the load of all his former miſcariages upon his Evil Counſel; profeſſeth a great deal of hearty love and affection to his Patron, prays for him in publick, and for his Wife, and Family in very Pa<g ref="char:EOLhyphen"/>thetical expreſſions; gives God thanks in a neigh<g ref="char:EOLhyphen"/>bour Church upon the Lords day, for this work of peace wrought between his Patron and himſelf.</p>
+            <p>Preaches a Sermon upon this Text, <hi>How happy and how pleaſant a thing it is, for Brethren to agree together in Unity;</hi> and makes the <hi>Union</hi> between Him, his Pa<g ref="char:EOLhyphen"/>tron, and Pariſhioners to be the Subject of his Diſ<g ref="char:EOLhyphen"/>courſe; and incites the whole Congregation to Prayers and Thankſgivings for the ſame. And in like manner, the Patron, he takes all occaſions to expreſſe his love to the Vicar, and reſtores him by his mediation and example to the former reſpects of his Neighbours and Pariſhioners, to whoſe Tables he was again invited after a long eſtrangment; and they began to be again as well open handed as open hearted unto him: But what uſe doth <hi>Anthony Sad<g ref="char:EOLhyphen"/>ler</hi> make of all this? he is lifted up with theſe kind<g ref="char:EOLhyphen"/>neſſes and reſpects ſhewed him; and his Jealouſies and Apprehenſions not being quite extinguiſht, they take Life and Head again; he repairs to his own e<g ref="char:EOLhyphen"/>vil Counſelors (one <hi>Thomas Witherden</hi> Cammel-keep<g ref="char:EOLhyphen"/>er of <hi>Mitcham</hi> being the chief of them and they hunt together like <hi>Bell</hi> and the <hi>Dragon</hi> after al occaſions to traduce <hi>Mr. Cranmer;</hi> and gather up all looſe re<g ref="char:EOLhyphen"/>ports, let them come from any foul mouth whatſo<g ref="char:EOLhyphen"/>ever,
+<pb n="13" facs="tcp:33932:8"/> and how mean and inconſiderable ſoever the per<g ref="char:EOLhyphen"/>ſons be, that are the Authors, it matters not, and with theſe they Stigmatize him as Treacherous, Barbarous, and Oppreſſive, both to the Right Reverend Biſhop of that Dioceſs, and to the World in Print, in that lying Legend of his, ſtiled <hi>Strange News from</hi> Mitcham <hi>in</hi> Sur<g ref="char:EOLhyphen"/>ty; wherein he makes the Churches Juriſdiction, and Diſcipline, and the Churches Free-hold, and his Preach<g ref="char:EOLhyphen"/>ing up the Regal Authority, and Mr. <hi>Cranmers</hi> Injury and Diſobedience to all, to be the ground of his Law-Suite and Preſentments; but this man muſt needs be reckoned a ſtout Champion and firm Aſſerter of the Churches Rights; when, under his own hand directed to his Procter <hi>Richardſon,</hi> he gives him order to with<g ref="char:EOLhyphen"/>draw the Cauſe, and to ſtop all further proceedings upon the Preſentments; And gives Mr. <hi>Cranmer</hi> his Bond for the payment of Thirty Pounds for coſts of Suite for his unjuſt Proſecution; This is that well known Miniſter <hi>Anthony Sadler,</hi> who in his Petition to the Reverend Biſhop atteſts Mr. <hi>Cranmer</hi> to be a pub<g ref="char:EOLhyphen"/>lique Oppreſſor and notorious in Oppreſſion, and why? Becauſe when he had been in law two years and a half with his Patron about Dilapidations, and had there un<g ref="char:EOLhyphen"/>juſtly oppreſt him, (as appears by his withdrawing the Cauſe and giving Bond for Coſts, and becauſe he was in perſon to proſecute his unjuſt Preſentments in the Biſhops Court againſt his Patron, which afterwards he withdrew) his Patron arreſted him there; as if for M. <hi>Cranmers</hi> legally and by due courſe of Law to ſeek his remedy againſt <hi>Anthony Sadler</hi> for the damage he hath ſuſtained by him, were to oppreſs <hi>Anthony Sadler;</hi> and if <hi>Anthony Sadler</hi> had not taken that opportunity in
+<pb n="14" facs="tcp:33932:9"/> Priſon, to make his Attonement with his Patron, by ſe<g ref="char:EOLhyphen"/>curing him that he would leave the Vicarage, at the time prefixed. It is to be believ'd that <hi>Anthony Sadler</hi> had long ere this, at the Tryal of that Action been convin<g ref="char:EOLhyphen"/>ced, that he himſelf was the Greateſt and moſt Noto<g ref="char:EOLhyphen"/>rious in Oppreſſion. That <hi>Anthony Sadler</hi> was caſt into Priſon and lay there a day and a night, was not his Pa<g ref="char:EOLhyphen"/>trons fault, but his own, for if he had put in Bayl, his perſon would have been preſently diſcharged, and he needed not to have entered the priſon door, nor have been kept one houre from his Family and Study; but that which is the moſt Stupendious untruth in the whole pack, is that Mr. <hi>Cranmer</hi> his Common Lawyer ſhould cauſe <hi>Anthony Sadler</hi> to Subſcribe and Seal a Blank pa<g ref="char:EOLhyphen"/>per, or papers, which paper or papers Mr. <hi>Cranmer</hi> and his Common-Lawyer, report to be a Judgment and a Warrant for the payment of 500l. to Mr. <hi>Cran<g ref="char:EOLhyphen"/>mer;</hi> And thus he would perſwade the world that he was conſulted againſt, impriſoned, and complotted to be ruined; the truth of the matter of Fact, you have heard before; the penalty in the Bond was indeed 500l. but conditioned, that if <hi>Anthony Sadler</hi> ſhould deliver up his Preſentation by ſuch a day, and reſign the Vicarage into the hands of the Biſhop, that ſo his Patron might freely preſent another Perſon, and ſhould alſo by the 10th. of <hi>April</hi> next, remove his Wife and Family out of the Pariſh, then the Bond to be void; <hi>A. Sadler</hi> is both able to write and read, and knew what he did, before he delivered it; the other paper was a Warrant of Attor<g ref="char:EOLhyphen"/>ney to confeſſe a Judgment upon the ſame bond, which <hi>A. Sadler</hi> did Sign, Seal, and Deliver in the preſence of very many perſons. Yet this well known Miniſter
+<pb n="15" facs="tcp:33932:9"/> hath the Impudence to affirm to the world, that to his beſt remembrance they were Blank papers; the world may well think that <hi>Anthony Sadler</hi> hath lain in bed ſo long this cold Winter, that he hath forgotten what he did Engage to perform by the 10th. of <hi>April</hi> next; and now being awakened and finding the day approach<g ref="char:EOLhyphen"/>ing, he would willingly caſt off all his Engagments, by calling them Blank Papers; or elſe does implore E<g ref="char:EOLhyphen"/>piſcopal aſſiſtance to enforce that, which is againſt the Laws of the Land; (for ſo is his expreſs word in his pretended letter to the Biſhop, (<hi>that his Lordſhip would ſend for Mr.</hi> Cranmer <hi>and enforce,</hi> (indeed the next word is <hi>(Equity,)</hi> but the meaning is, <hi>his Security from Mr.</hi> Cranmer; And if that will not do, then comes the Petition directed to the ſame Right Reverend Biſhop, <hi>to implore his Favour to have Mr.</hi> Cranmers <hi>Security,</hi> (which he calls <hi>Papers) to be produced before the King and His Council;</hi> It is a ſign that this <hi>Anthony Sadler</hi> is di<g ref="char:EOLhyphen"/>ſtracted or quite mad, to think that the King and His Council have no more to do, then to minde his pitiful ſtories and wranglings with his Patron &amp; Pariſhioners. But all this while we do but contend with a ſhadow; For he declares that his <hi>Letter and Petition</hi> were directed <hi>To the Lord Biſhop of</hi> Wincheſter, but does not affirm that he ſent either; and it is believed that he durſt not for fear that he ſhould be diſowned for a <hi>Son of the True Church,</hi> being ſo unlike his Mother, both in ſpeech and carriage, or at leaſt cenſured for a diſobedient Son, in not obeying his Mothers commands, and unlike his Brothers in thoſe qualifications ſet down by the Apoſtle St. <hi>Paul</hi> to <hi>Timothy; That they ſhould be blameleſs, ſober, of good behaviour, not given to wine, patient, no brawler nor no vice, nor lifted up with pride;</hi> That Mr. <hi>Cranmer</hi> ſhould
+<pb n="16" facs="tcp:33932:10"/> be injurious to the Churches Freehold, is inconſiſtent with his own intereſt, having purchaſed the preſenta<g ref="char:EOLhyphen"/>tion in Fee, and is the real Patron of that Vicarage, and called Patron, becauſe it is his duty to defend the Churches Right, and as well his Intereſt as his Duty; Now to injury the Churches Freehold, is to make Mr. <hi>Cranmer</hi> a <hi>Felo de ſe,</hi> which no man in his wits can well imagine, that Mr. <hi>Cranmer</hi> ſhould be diſobedient to the <hi>Churches Diſcipline,</hi> is as little imaginable, when in the worſt of times he preſented very able and orthodox Di<g ref="char:EOLhyphen"/>vines, and ſuch as were moſt conformable to the Diſ<g ref="char:EOLhyphen"/>cipline of the Church, to the Vicarage of <hi>Mitcham,</hi> witneſs Dr. <hi>San<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iland,</hi> and Mr. <hi>Welden;</hi> and not only fa<g ref="char:EOLhyphen"/>voured ſuch moſt in his Judgment, but was moſt cha<g ref="char:EOLhyphen"/>ritably diſpoſed to the deſtreſſed and ſequeſtred Clergy, yearly diſtributing large portions amongſt them; as is very well known to ſome Perſons now of great Emi<g ref="char:EOLhyphen"/>nency in the Church; which is not mentioned by way of vain glory, but to take off thoſe aſperſions caſt upon him by <hi>Anthony Sadler.</hi>
+            </p>
+            <p>To conclude, by which hath been already alledged, it would be thought <hi>Strange News indeed,</hi> or <hi>News with a Witneſs,</hi> and a wonder to the World, that there ſhould be at <hi>Mitcham,</hi> one <hi>Anthony Sadler,</hi> that ſtiles himſelf the Vicar of <hi>Mitcham,</hi> and a <hi>Dutiful Son of the Church of</hi> England, that doth neglect his Miniſterial Office, and diſobeys the Churches commands, diſturbing the peace and quiet of his Pariſhioners, and by his evil and bad converſation is moſt likely to corrupt the people to the diſhonour of Religion, to the reproach of the Miniſtry, to the contempt of the Diſcipline of the Church of <hi>England,</hi> and yet to be ſo bold, as to appeal to the Lear<g ref="char:EOLhyphen"/>ned and Right Reverend Biſhop of that Dioceſs for his <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Protection.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Lond<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> Printed by <hi>Thomas Ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b</hi> at <hi>Pauls</hi> Whaiff, 1664.</p>
+            <pb facs="tcp:33932:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
